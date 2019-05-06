@@ -258,3 +258,5 @@
 * a **DELETE** request by id to delete an expenseMember. The result returns a 1 if successful.
 
   * ### https://tripsplitbackend.herokuapp.com/expenseMember/:id
+
+  testing branch
